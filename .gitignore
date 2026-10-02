@@ -1,0 +1,17 @@
+/node_modules
+.env
+# Local configuration and generated files
+*.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Uploaded data and generated reports
+/public/img/users/
+/pdfs/
+/naac/
+/dev-data/data/
+/feedback.zip
+/mccfeedback.xlsx
+/.github/
